@@ -32,3 +32,23 @@ Follow these steps to disable automatic Windows update reboots:
 12. Your changes are now in effect, and automatic Windows update reboots should be disabled.
 
 Your Windows should no longer automatically reboot after updates, helping you avoid interruptions during your work or usage.
+
+---- 
+
+
+## Additional Steps to Prevent Automatic Reboots
+
+In addition to modifying the Windows Registry, you can also prevent automatic reboots through system settings:
+
+### Additional Step 1: Open Advanced Settings
+1. Type "Advanced settings" in the Windows search bar and select "View advanced system settings."
+
+### Additional Step 2: Disable Automatic Restart
+2. In the "System Properties" window, go to the "Advanced" tab.
+3. In the "Startup and Recovery" section, click the "Settings" button.
+4. In the "System Failure" section, uncheck the "Automatically restart" option.
+5. Click the "OK" button to save your changes.
+6. Click the "OK" button in the "System Properties" window to close it.
+
+By following these additional steps, you will prevent your system from automatically restarting after certain types of system failures or crashes, further reducing unwanted interruptions. This setting is independent of the Windows Update-related changes you made in the previous steps.
+
